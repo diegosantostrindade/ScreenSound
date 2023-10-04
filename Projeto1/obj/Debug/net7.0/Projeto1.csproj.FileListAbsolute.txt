@@ -1,0 +1,14 @@
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\bin\Debug\net7.0\Projeto1.exe
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\bin\Debug\net7.0\Projeto1.deps.json
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\bin\Debug\net7.0\Projeto1.runtimeconfig.json
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\bin\Debug\net7.0\Projeto1.dll
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\bin\Debug\net7.0\Projeto1.pdb
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.AssemblyInfoInputs.cache
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.AssemblyInfo.cs
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.csproj.CoreCompileInputs.cache
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.dll
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\refint\Projeto1.dll
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.pdb
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\Projeto1.genruntimeconfig.cache
+O:\Diego.Trindade\Arquivos\TI\Alura\C#\Projeto1\Projeto1\obj\Debug\net7.0\ref\Projeto1.dll
